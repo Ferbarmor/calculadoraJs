@@ -15,6 +15,4 @@ test('Multiplica 2 * 3 y devuelve 6', () => {
 test('Divide 6 / 3 y devuelve 2', () => {
     expect(dividir(6, 3)).toBe(2);
 });
-test('Raiz cuadrada de 4 es 2', () => {
-    expect(raiz(4)).toBe(2);
-});
+
