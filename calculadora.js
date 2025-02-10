@@ -17,4 +17,4 @@ function suma(a, b) {
  
 
   
-  module.exports = { suma, resta, multiplicar,dividir,raiz };//Para pasar el analizador hola
+  module.exports = { suma, resta, multiplicar,dividir};//Para pasar el analizador hola
